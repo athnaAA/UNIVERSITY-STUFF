@@ -1,2 +1,6 @@
 # UNIVERSITY-STUFF
-What i am doing during my year, as a student or as a hobby for biology. A little of everything to make sure i improve myself
+
+Welcome to my repository ! I want this space to gathers code, exercice, some personal projects creatied during my Bachelor's degree.
+
+## GOAL 
+Improving my programming skills for upcoming Master's studies.
