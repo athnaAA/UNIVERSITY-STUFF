@@ -1,6 +1,9 @@
-# UNIVERSITY-STUFF
+# University Stuff ✩
 
-Welcome to my repository ! I want this space to gathers code, exercice, some personal projects creatied during my Bachelor's degree.
+Welcome to my repository!
 
-## GOAL 
-Improving my programming skills for upcoming Master's studies.
+This space gathers code, exercises, and projects created during my Bachelor's degree.
+
+## Goal ✩
+
+Improving my programming skills and building a foundation for future studies in bioinformatics.
